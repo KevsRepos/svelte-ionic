@@ -1,7 +1,5 @@
 node_modules
 /public/bundle/
 .routify
-/src/routes/routes.js
-/src/routes/config.js
 src/routes/config.js
 src/routes/routes.js

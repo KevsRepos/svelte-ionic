@@ -4,4 +4,6 @@
   export let routes;
 </script>
 
-<Router routes="{routes}" />
+<ion-app>
+  <Router routes="{routes}" />
+</ion-app>

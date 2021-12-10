@@ -1,11 +1,11 @@
 
 /**
  * @roxi/routify 2.1.2
- * File generated Tue Aug 17 2021 23:52:44 GMT+0200 (GMT+02:00)
+ * File generated Fri Dec 10 2021 02:12:04 GMT+0100 (Central European Standard Time)
  */
 
 export const __version = "2.1.2"
-export const __timestamp = "2021-08-17T21:52:44.351Z"
+export const __timestamp = "2021-12-10T01:12:04.920Z"
 
 //buildRoutes
 import { buildClientTree } from "@roxi/routify/runtime/buildRoutes"
@@ -22,7 +22,7 @@ export const _tree = {
   "filepath": "/_layout.svelte",
   "root": true,
   "ownMeta": {},
-  "absolutePath": "C:/Users/Kev/projects/test/src/pages/_layout.svelte",
+  "absolutePath": "/home/wonderbear/projects/svelte-ionic/src/pages/_layout.svelte",
   "children": [
     {
       "isFile": true,
@@ -32,7 +32,7 @@ export const _tree = {
       "name": "_fallback",
       "ext": "svelte",
       "badExt": false,
-      "absolutePath": "C:/Users/Kev/projects/test/src/pages/_fallback.svelte",
+      "absolutePath": "/home/wonderbear/projects/svelte-ionic/src/pages/_fallback.svelte",
       "importPath": "../pages/_fallback.svelte",
       "isLayout": false,
       "isReset": false,
@@ -59,7 +59,7 @@ export const _tree = {
       "name": "index",
       "ext": "svelte",
       "badExt": false,
-      "absolutePath": "C:/Users/Kev/projects/test/src/pages/index.svelte",
+      "absolutePath": "/home/wonderbear/projects/svelte-ionic/src/pages/index.svelte",
       "importPath": "../pages/index.svelte",
       "isLayout": false,
       "isReset": false,
